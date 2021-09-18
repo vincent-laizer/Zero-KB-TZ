@@ -6,6 +6,7 @@
 #include <errno.h>
 #include<fstream>
 #include <Windows.h>
+#include <Lmcons.h>
 
 using namespace std;
 
