@@ -19,10 +19,17 @@ Target system: Windows OS Platform
 :heavy_check_mark: This Loop proceeds until the virus is detected and removed
 
 ## Whats Next?
-* Any helpfull ideas are welcomed on how to improve the virus
+Any helpfull ideas are welcomed on how to improve the virus, like:
+
+
+:star2: Making the code **Polymorphic**
+
+
+:star2: Self **Network Propergation**
+
+## Status
+Currenlty most of Anti-Virus programs can't detect this code as malware, but i believe it won't be long till my creation is put to quarantine or mercilesly deleted. :innocent:
 
 ## Caution
 * it is important to remember:
-  ````
-  "With great power comes great responsibility."
-  ````
+  ````  "With great power comes great responsibility."  ```` :wink:
